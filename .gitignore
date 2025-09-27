@@ -1,0 +1,26 @@
+# Visual Studio / Rider
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# NuGet
+.nuget/
+*.nupkg
+
+# Binaries and intermediate files
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Miscellaneous
+*.log
+
+# Specific to .NET Core
+*.dll
+*.pdb
+*.exe
